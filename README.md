@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giorgi</h1>
 <h3 align="center">A passionate backend developer from Georgia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgimskh&label=Profile%20views&color=0e75b6&style=flat" alt="giorgimskh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giorgimskh" alt="giorgimskh" /></a> </p>
 
 - 🔭 I’m currently working on [Task Tracker CLI](https://github.com/giorgimskh/Task-Tracker-CLI.git)
 
