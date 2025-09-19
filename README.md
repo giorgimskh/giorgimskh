@@ -33,3 +33,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgimskh&show_icons=true&locale=en&layout=compact" alt="giorgimskh" /></p>
 
+![Codeforces](https://img.shields.io/badge/Codeforces-Expert-blue?logo=codeforces)
