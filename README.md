@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Task Tracker CLI](https://github.com/giorgimskh/BankingAndFraudDetection)
+- 🔭 I’m currently working on [Bank and Fraud Detection system](https://github.com/giorgimskh/BankingAndFraudDetection)
 
 - 🌱 I’m currently learning **Spring boot**
 
