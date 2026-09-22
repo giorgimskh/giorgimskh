@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Bank and Fraud Detection system](https://github.com/giorgimskh/student-management.git)
+- 🔭 I’m currently working on [Student-management-system](https://github.com/giorgimskh/student-management.git)
 
 - 🌱 I’m currently learning **Spring boot**
 
